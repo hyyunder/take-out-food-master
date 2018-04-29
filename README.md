@@ -1,4 +1,8 @@
 
+###tasking图
+
+![tasking图](https://upload-images.jianshu.io/upload_images/10451910-9372bf4399958d3e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 需求描述
 
 某快餐品牌推出了它独家的外卖应用，用户可以在手机上直接下单。该应用会根据用户选择的菜品(Item)、数量(Count)和优惠方式(Promotion)进行计算，告诉用户需要支付的金额(Charge)。
@@ -122,3 +126,4 @@ npm test
 ```
 
 就可以看到在命令行中运行测试并输出报告。
+
